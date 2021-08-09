@@ -10,4 +10,6 @@ function cntvowels (s) {
 }
 const s = 'Bagalkot'
 cntvowels(s)
+console.log('Hello i have added some text')
+
 
